@@ -1,1 +1,3 @@
-"# git-sample" 
+"# git-sample"
+
+This is my project
